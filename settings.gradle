@@ -1,1 +1,1 @@
-include ':app', ':guardianlibrary'
+include ':guardianlibrary'
